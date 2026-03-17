@@ -1,7 +1,3 @@
-# qa-portfolio
-QA Portfolio - Test Cases, Bug Reports, API Testing, and Automation Examples
-
-
 # 🧪 QA Engineer Portfolio – Kenil Maniya
 
 QA professional with 3 years of experience in software and system testing across robotics and enterprise applications.
